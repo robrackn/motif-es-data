@@ -1,13 +1,17 @@
-# motif-es-data
-Empirical data from the Yamaha Motif ES Synth
+# Yamaha Motif ES 3-Band EQ Curves Dataset
 
-# Hardware Synthesizer Data Capture
+This repository contains a comprehensive CSV dataset mapping the response curves of the hardware 3-band Equalizer from a 2003 Yamaha Motif ES workstation. 
 
-This repository contains raw data captured directly from a physical synthesizer hardware unit parsed through software developed by this user.
+This data is intended for audio engineers, DSP developers, and anyone interested in hardware modeling or filter analysis.
 
-## 📦 What's Inside
-* **Format:** CSV data captured from a comprehensive run of a 3-Band Audio Equalizer
-* **Content:** Lots of numbers
+## 📦 Dataset Specifications
+* **Hardware Source:** Yamaha Motif ES Physical Unit
+* **File Format:** `.csv` (Comma-Separated Values)
+* **Target:** 3-Band Hardware EQ 
 
-## ⚖️ License
-This project is dedicated to the public domain under the **CC0 1.0 Universal** dedication. You are completely free to use these sounds in your commercial music tracks, video games, software, or sample packs without any restriction or requirement for attribution.
+## 🔍 Data Structure
+The CSV file includes a comprehensive run of frequency responses across variations of the Low, Mid, and High EQ bands. Columns map:
+* [e.g., Frequency (Hz), Gain (dB), Phase (deg), or Q-factor settings]
+
+## ⚖️ License (CC0 1.0 Universal)
+This dataset is dedicated to the public domain. You are completely free to use this data for training machine learning models, building VST/AU audio plugins, hardware modeling, or academic research without any restriction or attribution requirements.
