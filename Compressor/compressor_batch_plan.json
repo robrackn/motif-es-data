@@ -1,0 +1,47 @@
+{
+  "interactionCount": 16,
+  "cases": [
+    {
+      "effect": "Compressor",
+      "slot": "A",
+      "label": "attack_fast",
+      "params": { "Attack": 0, "Release": 7, "Threshold": 60, "Ratio": 4, "Output Level": 100 }
+    },
+    {
+      "effect": "Compressor",
+      "slot": "A",
+      "label": "attack_slow",
+      "params": { "Attack": 19, "Release": 7, "Threshold": 60, "Ratio": 4, "Output Level": 100 }
+    },
+    {
+      "effect": "Compressor",
+      "slot": "A",
+      "label": "release_fast",
+      "params": { "Attack": 9, "Release": 0, "Threshold": 60, "Ratio": 4, "Output Level": 100 }
+    },
+    {
+      "effect": "Compressor",
+      "slot": "A",
+      "label": "release_slow",
+      "params": { "Attack": 9, "Release": 15, "Threshold": 60, "Ratio": 4, "Output Level": 100 }
+    },
+    {
+      "effect": "Compressor",
+      "slot": "A",
+      "label": "heavy_limiting",
+      "params": { "Attack": 9, "Release": 7, "Threshold": 20, "Ratio": 7, "Output Level": 110 }
+    },
+    {
+      "effect": "Compressor",
+      "slot": "A",
+      "label": "gentle_glue",
+      "params": { "Attack": 9, "Release": 7, "Threshold": 100, "Ratio": 0, "Output Level": 90 }
+    },
+    {
+      "effect": "Compressor",
+      "slot": "A",
+      "label": "baseline_mid",
+      "params": { "Attack": 9, "Release": 7, "Threshold": 60, "Ratio": 4, "Output Level": 100 }
+    }
+  ]
+}

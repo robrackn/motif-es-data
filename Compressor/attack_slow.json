@@ -1,0 +1,2987 @@
+{
+  "capturedAt" : "2026-08-28T00:56:45Z",
+  "clippedCount" : 0,
+  "label" : "attack_slow",
+  "observationCount" : 90,
+  "observations" : [
+    {
+      "capturedAt" : "2026-08-28T00:51:10Z",
+      "clipped" : false,
+      "id" : 0,
+      "inputPeakDBFS" : -15.429707527160645,
+      "inputRMSDBFS" : -35.09648132324219,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -60.00005340576172,
+      "outputRMSDBFS" : -63.490203857421875,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -60,
+        "id" : 0,
+        "lowLevelDBFS" : -60,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:11Z",
+      "clipped" : false,
+      "id" : 1,
+      "inputPeakDBFS" : -53.75969314575195,
+      "inputRMSDBFS" : -57.868408203125,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -57.00005340576172,
+      "outputRMSDBFS" : -60.50107955932617,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -57,
+        "id" : 1,
+        "lowLevelDBFS" : -57,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:12Z",
+      "clipped" : false,
+      "id" : 2,
+      "inputPeakDBFS" : -50.855106353759766,
+      "inputRMSDBFS" : -54.86793899536133,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -54.000057220458984,
+      "outputRMSDBFS" : -57.524375915527344,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -54,
+        "id" : 2,
+        "lowLevelDBFS" : -54,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:14Z",
+      "clipped" : false,
+      "id" : 3,
+      "inputPeakDBFS" : -48.030914306640625,
+      "inputRMSDBFS" : -51.87089920043945,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -51.00005340576172,
+      "outputRMSDBFS" : -54.56292724609375,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -51,
+        "id" : 3,
+        "lowLevelDBFS" : -51,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:15Z",
+      "clipped" : false,
+      "id" : 4,
+      "inputPeakDBFS" : -45.133148193359375,
+      "inputRMSDBFS" : -48.87347412109375,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -48.00005340576172,
+      "outputRMSDBFS" : -51.54054260253906,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -48,
+        "id" : 4,
+        "lowLevelDBFS" : -48,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:16Z",
+      "clipped" : false,
+      "id" : 5,
+      "inputPeakDBFS" : -42.13850021362305,
+      "inputRMSDBFS" : -45.879051208496094,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -45.00005340576172,
+      "outputRMSDBFS" : -48.54667663574219,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -45,
+        "id" : 5,
+        "lowLevelDBFS" : -45,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:17Z",
+      "clipped" : false,
+      "id" : 6,
+      "inputPeakDBFS" : -39.14673614501953,
+      "inputRMSDBFS" : -43.60218811035156,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -42.00005340576172,
+      "outputRMSDBFS" : -45.557865142822266,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -42,
+        "id" : 6,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:18Z",
+      "clipped" : false,
+      "id" : 7,
+      "inputPeakDBFS" : -36.15799331665039,
+      "inputRMSDBFS" : -42.87904357910156,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -39.000057220458984,
+      "outputRMSDBFS" : -42.54608154296875,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -39,
+        "id" : 7,
+        "lowLevelDBFS" : -39,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:20Z",
+      "clipped" : false,
+      "id" : 8,
+      "inputPeakDBFS" : -33.24311828613281,
+      "inputRMSDBFS" : -42.09114456176758,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -36.00005340576172,
+      "outputRMSDBFS" : -39.53473663330078,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -36,
+        "id" : 8,
+        "lowLevelDBFS" : -36,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:21Z",
+      "clipped" : false,
+      "id" : 9,
+      "inputPeakDBFS" : -30.308387756347656,
+      "inputRMSDBFS" : -41.24076843261719,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -33.00005340576172,
+      "outputRMSDBFS" : -36.529388427734375,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -33,
+        "id" : 9,
+        "lowLevelDBFS" : -33,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:22Z",
+      "clipped" : false,
+      "id" : 10,
+      "inputPeakDBFS" : -27.420141220092773,
+      "inputRMSDBFS" : -40.24821472167969,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -30.00005531311035,
+      "outputRMSDBFS" : -33.58502960205078,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -30,
+        "id" : 10,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:23Z",
+      "clipped" : false,
+      "id" : 11,
+      "inputPeakDBFS" : -24.469036102294922,
+      "inputRMSDBFS" : -39.049407958984375,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -27.00005531311035,
+      "outputRMSDBFS" : -30.499942779541016,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -27,
+        "id" : 11,
+        "lowLevelDBFS" : -27,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:24Z",
+      "clipped" : false,
+      "id" : 12,
+      "inputPeakDBFS" : -21.82029914855957,
+      "inputRMSDBFS" : -37.731807708740234,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -24.00005531311035,
+      "outputRMSDBFS" : -27.550052642822266,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -24,
+        "id" : 12,
+        "lowLevelDBFS" : -24,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:26Z",
+      "clipped" : false,
+      "id" : 13,
+      "inputPeakDBFS" : -18.898832321166992,
+      "inputRMSDBFS" : -36.072547912597656,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -21.00005340576172,
+      "outputRMSDBFS" : -24.54928207397461,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -21,
+        "id" : 13,
+        "lowLevelDBFS" : -21,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:27Z",
+      "clipped" : false,
+      "id" : 14,
+      "inputPeakDBFS" : -16.316701889038086,
+      "inputRMSDBFS" : -34.341529846191406,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -18.00005340576172,
+      "outputRMSDBFS" : -21.53699493408203,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -18,
+        "id" : 14,
+        "lowLevelDBFS" : -18,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:28Z",
+      "clipped" : false,
+      "id" : 15,
+      "inputPeakDBFS" : -13.965518951416016,
+      "inputRMSDBFS" : -32.58232879638672,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -15.000055313110352,
+      "outputRMSDBFS" : -18.547218322753906,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -15,
+        "id" : 15,
+        "lowLevelDBFS" : -15,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:29Z",
+      "clipped" : false,
+      "id" : 16,
+      "inputPeakDBFS" : -11.754684448242188,
+      "inputRMSDBFS" : -30.788381576538086,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -15.505677223205566,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 16,
+        "lowLevelDBFS" : -12,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:30Z",
+      "clipped" : false,
+      "id" : 17,
+      "inputPeakDBFS" : -10.92388916015625,
+      "inputRMSDBFS" : -29.99915313720703,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -9.000054359436035,
+      "outputRMSDBFS" : -12.513946533203125,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -9,
+        "id" : 17,
+        "lowLevelDBFS" : -9,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:32Z",
+      "clipped" : false,
+      "id" : 18,
+      "inputPeakDBFS" : -10.109095573425293,
+      "inputRMSDBFS" : -29.21662139892578,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -6.000055313110352,
+      "outputRMSDBFS" : -9.55960464477539,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.6,
+        "family" : "staticTransfer",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -6,
+        "id" : 18,
+        "lowLevelDBFS" : -6,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0008666990159116145,
+        "initialSlopeDBPerSecond" : 103.66439430666425,
+        "lateSlopeDBPerSecond" : 8.959308014615063,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.39881686363509616,
+        "singleExponentialTau" : 0.19155228058524523,
+        "t10" : 0.00901661355867983,
+        "t632" : 0.10230340294384635,
+        "t90" : 0.4819576840029378,
+        "t95" : 0.4822425034002484
+      },
+      "capturedAt" : "2026-08-28T00:51:33Z",
+      "clipped" : false,
+      "id" : 19,
+      "inputPeakDBFS" : -23.371124267578125,
+      "inputRMSDBFS" : -38.816959381103516,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -15.600055694580078,
+      "outputRMSDBFS" : -23.41660499572754,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -15.6,
+        "id" : 19,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.002308535163865295,
+        "initialSlopeDBPerSecond" : 11.784021043433098,
+        "lateSlopeDBPerSecond" : -2140.4137364421,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.08509410608112455,
+        "singleExponentialTau" : 0.9193931634271966,
+        "t10" : 0.02919262212738059,
+        "t632" : 0.43518635525151056,
+        "t90" : 0.4357242213302735,
+        "t95" : 0.43582461464086325
+      },
+      "capturedAt" : "2026-08-28T00:51:35Z",
+      "clipped" : false,
+      "id" : 20,
+      "inputPeakDBFS" : -23.367843627929688,
+      "inputRMSDBFS" : -38.431819915771484,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -15.600055694580078,
+      "outputRMSDBFS" : -23.401023864746094,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -15.6,
+        "id" : 20,
+        "lowLevelDBFS" : -30,
+        "repetition" : 1,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0007568681765502277,
+        "initialSlopeDBPerSecond" : 141.8018493905017,
+        "lateSlopeDBPerSecond" : 49.989409534021846,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.891370937223328,
+        "singleExponentialTau" : 0.05970771440016552,
+        "t10" : 0.007734037838739507,
+        "t632" : 0.06227605665213662,
+        "t90" : 0.13330025217080027,
+        "t95" : 0.18550379084678603
+      },
+      "capturedAt" : "2026-08-28T00:51:37Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -24.531591736183906,
+        "timeSeconds" : 0.0029931972789115635
+      },
+      "id" : 21,
+      "inputPeakDBFS" : -21.001632690429688,
+      "inputRMSDBFS" : -37.61642837524414,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -13.200054168701172,
+      "outputRMSDBFS" : -21.12665557861328,
+      "overshootDB" : 13.00540308596949,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -13.2,
+        "id" : 21,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.002236550447013269,
+        "initialSlopeDBPerSecond" : 12.882675342786857,
+        "lateSlopeDBPerSecond" : -25.382776528238047,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.14651360113681078,
+        "singleExponentialTau" : 0.840813798469064,
+        "t10" : 0.0271332824857816,
+        "t632" : 0.4384582477946253,
+        "t90" : 0.4393935662110445,
+        "t95" : 0.4396249504878526
+      },
+      "capturedAt" : "2026-08-28T00:51:39Z",
+      "clipped" : false,
+      "id" : 22,
+      "inputPeakDBFS" : -20.999866485595703,
+      "inputRMSDBFS" : -37.62028884887695,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -13.200054168701172,
+      "outputRMSDBFS" : -21.103181838989258,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -13.2,
+        "id" : 22,
+        "lowLevelDBFS" : -30,
+        "repetition" : 1,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0010382720573609081,
+        "initialSlopeDBPerSecond" : 124.62360199573578,
+        "lateSlopeDBPerSecond" : 13.023701675945825,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.4131529487156441,
+        "singleExponentialTau" : 0.2065348681709323,
+        "t10" : 0.010740265474360041,
+        "t632" : 0.12395685437015572,
+        "t90" : 0.4799721200381263,
+        "t95" : 0.48023089227438587
+      },
+      "capturedAt" : "2026-08-28T00:51:40Z",
+      "clipped" : false,
+      "id" : 23,
+      "inputPeakDBFS" : -18.63257598876953,
+      "inputRMSDBFS" : -36.5767707824707,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -10.800055503845215,
+      "outputRMSDBFS" : -18.839630126953125,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -10.8,
+        "id" : 23,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0021877595736256796,
+        "initialSlopeDBPerSecond" : 14.079704564229795,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.21619559343897687,
+        "singleExponentialTau" : 0.7603311284789634,
+        "t10" : 0.025534366630739738,
+        "t632" : 0.44307187124100816,
+        "t90" : 0.44371471637410753,
+        "t95" : 0.44383470414365944
+      },
+      "capturedAt" : "2026-08-28T00:51:42Z",
+      "clipped" : false,
+      "id" : 24,
+      "inputPeakDBFS" : -18.621074676513672,
+      "inputRMSDBFS" : -36.56733703613281,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -10.800055503845215,
+      "outputRMSDBFS" : -18.804683685302734,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -10.8,
+        "id" : 24,
+        "lowLevelDBFS" : -30,
+        "repetition" : 1,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0008658831232940401,
+        "initialSlopeDBPerSecond" : 164.02705382979178,
+        "lateSlopeDBPerSecond" : 69.40963484235802,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.9194390082459091,
+        "singleExponentialTau" : 0.06332820759429943,
+        "t10" : 0.008824803872200932,
+        "t632" : 0.06756059955205951,
+        "t90" : 0.13205477007503794,
+        "t95" : 0.165300633112111
+      },
+      "capturedAt" : "2026-08-28T00:51:44Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -19.846885268815214,
+        "timeSeconds" : 0.003990929705215418
+      },
+      "id" : 25,
+      "inputPeakDBFS" : -16.26592445373535,
+      "inputRMSDBFS" : -35.2857666015625,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -8.400054931640625,
+      "outputRMSDBFS" : -16.43988037109375,
+      "overshootDB" : 16.742523254357685,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -8.399999999999999,
+        "id" : 25,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.002324376543607096,
+        "initialSlopeDBPerSecond" : 19.45706387646047,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.16197105123309663,
+        "singleExponentialTau" : 0.7837835213201811,
+        "t10" : 0.027268365342606102,
+        "t632" : 0.43620218619759177,
+        "t90" : 0.4367756871511353,
+        "t95" : 0.4368827317513173
+      },
+      "capturedAt" : "2026-08-28T00:51:46Z",
+      "clipped" : false,
+      "id" : 26,
+      "inputPeakDBFS" : -16.276357650756836,
+      "inputRMSDBFS" : -35.29311752319336,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -8.400054931640625,
+      "outputRMSDBFS" : -16.432147979736328,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -8.399999999999999,
+        "id" : 26,
+        "lowLevelDBFS" : -30,
+        "repetition" : 1,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.001205863793509712,
+        "initialSlopeDBPerSecond" : 144.75345766158608,
+        "lateSlopeDBPerSecond" : 13.109933889249584,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.4410949507449661,
+        "singleExponentialTau" : 0.20716341613534398,
+        "t10" : 0.012372049751557429,
+        "t632" : 0.13273972797306524,
+        "t90" : 0.47953229133172226,
+        "t95" : 0.47991563477520566
+      },
+      "capturedAt" : "2026-08-28T00:51:47Z",
+      "clipped" : false,
+      "id" : 27,
+      "inputPeakDBFS" : -13.934591293334961,
+      "inputRMSDBFS" : -33.776092529296875,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -6.000055313110352,
+      "outputRMSDBFS" : -14.096097946166992,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -6,
+        "id" : 27,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0023390467441275434,
+        "initialSlopeDBPerSecond" : 22.677703084034686,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.2000815885116345,
+        "singleExponentialTau" : 0.7301483858379995,
+        "t10" : 0.026712787993325916,
+        "t632" : 0.438200828033612,
+        "t90" : 0.4387913798543627,
+        "t95" : 0.438901607018151
+      },
+      "capturedAt" : "2026-08-28T00:51:49Z",
+      "clipped" : false,
+      "id" : 28,
+      "inputPeakDBFS" : -13.936734199523926,
+      "inputRMSDBFS" : -33.77729034423828,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -6.000055313110352,
+      "outputRMSDBFS" : -14.072770118713379,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "attack",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -6,
+        "id" : 28,
+        "lowLevelDBFS" : -30,
+        "repetition" : 1,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:51:56Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -26.91122858395007,
+        "timeSeconds" : 0.03292517006802731
+      },
+      "id" : 29,
+      "inputPeakDBFS" : -23.37643814086914,
+      "inputRMSDBFS" : -40.479888916015625,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -15.600055694580078,
+      "outputRMSDBFS" : -32.25078582763672,
+      "overshootDB" : 13.96903922278809,
+      "release" : {
+        "delaySeconds" : 0.0008099283157500878,
+        "initialSlopeDBPerSecond" : 193.38470778653686,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.48592706707163136,
+        "singleExponentialTau" : 0.07378185248986054,
+        "t10" : 0.008464032151496928,
+        "t632" : 0.020675469532796083,
+        "t90" : 0.021351689302298707,
+        "t95" : 0.02145142664836302
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.05,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -15.6,
+        "id" : 29,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:52:02Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -26.8660142568271,
+        "timeSeconds" : 0.025941043083899995
+      },
+      "id" : 30,
+      "inputPeakDBFS" : -23.3692626953125,
+      "inputRMSDBFS" : -40.29227828979492,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -15.600055694580078,
+      "outputRMSDBFS" : -29.955089569091797,
+      "overshootDB" : 11.012058874413327,
+      "release" : {
+        "delaySeconds" : 0.010011071637095791,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7629760563269892,
+        "singleExponentialTau" : 0.003225123926384052,
+        "t10" : 0.010498735335602843,
+        "t632" : 0.011914034251147062,
+        "t90" : 0.01241631149258485,
+        "t95" : 0.012508679834145746
+      },
+      "settlingTimeSeconds" : 0.1845804988662132,
+      "testPoint" : {
+        "burstSeconds" : 0.25,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -15.6,
+        "id" : 30,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:52:10Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -26.98541879032301,
+        "timeSeconds" : 0.03791383219954669
+      },
+      "id" : 31,
+      "inputPeakDBFS" : -23.375614166259766,
+      "inputRMSDBFS" : -39.95945739746094,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -15.600055694580078,
+      "outputRMSDBFS" : -26.280044555664062,
+      "overshootDB" : 11.031464067382316,
+      "release" : {
+        "delaySeconds" : 0.021008525531764743,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7631890659288938,
+        "singleExponentialTau" : 0.003138493489616969,
+        "t10" : 0.021485021614138216,
+        "t632" : 0.022870378328582314,
+        "t90" : 0.023381335691539874,
+        "t95" : 0.02347537611483198
+      },
+      "settlingTimeSeconds" : 0.2145124716553286,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -15.6,
+        "id" : 31,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:52:21Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -26.870650563622384,
+        "timeSeconds" : 0.06585034013605462
+      },
+      "id" : 32,
+      "inputPeakDBFS" : -23.377689361572266,
+      "inputRMSDBFS" : -39.33303451538086,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -15.600055694580078,
+      "outputRMSDBFS" : -22.412015914916992,
+      "overshootDB" : 11.154648362596703,
+      "release" : {
+        "delaySeconds" : 0.050904846794749416,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7700604213982606,
+        "singleExponentialTau" : 0.0018360079634926556,
+        "t10" : 0.051123237526932284,
+        "t632" : 0.05226440310390062,
+        "t90" : 0.052731208987955705,
+        "t95" : 0.05281833883301096
+      },
+      "settlingTimeSeconds" : 0.24244897959183698,
+      "testPoint" : {
+        "burstSeconds" : 4,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -15.6,
+        "id" : 32,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:52:28Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -24.613372745449315,
+        "timeSeconds" : 0.04190476190476211
+      },
+      "id" : 33,
+      "inputPeakDBFS" : -20.9952335357666,
+      "inputRMSDBFS" : -40.22768020629883,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -13.200054168701172,
+      "outputRMSDBFS" : -31.68697738647461,
+      "overshootDB" : 16.27114451986162,
+      "release" : {
+        "delaySeconds" : 0.0008822185772168506,
+        "initialSlopeDBPerSecond" : 171.4937385524602,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.49283428515743766,
+        "singleExponentialTau" : 0.08088188921984522,
+        "t10" : 0.009143227152344063,
+        "t632" : 0.02892948043022682,
+        "t90" : 0.02955586470179241,
+        "t95" : 0.029672272528766197
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.05,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -13.2,
+        "id" : 33,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:52:34Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -24.514121244766272,
+        "timeSeconds" : 0.03591836734693876
+      },
+      "id" : 34,
+      "inputPeakDBFS" : -20.990680694580078,
+      "inputRMSDBFS" : -39.99055862426758,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -13.200054168701172,
+      "outputRMSDBFS" : -28.507116317749023,
+      "overshootDB" : 12.790558867016188,
+      "release" : {
+        "delaySeconds" : 0.019030722037224695,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7366673478064527,
+        "singleExponentialTau" : 0.007011649387143505,
+        "t10" : 0.020530338663613187,
+        "t632" : 0.022046215314927793,
+        "t90" : 0.02248628750581283,
+        "t95" : 0.022568427476868574
+      },
+      "settlingTimeSeconds" : 0.19755102040816297,
+      "testPoint" : {
+        "burstSeconds" : 0.25,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -13.2,
+        "id" : 34,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:52:42Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -24.541995136996874,
+        "timeSeconds" : 0.03591836734693876
+      },
+      "id" : 35,
+      "inputPeakDBFS" : -20.988140106201172,
+      "inputRMSDBFS" : -39.626434326171875,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -13.200054168701172,
+      "outputRMSDBFS" : -24.218347549438477,
+      "overshootDB" : 13.00277890092842,
+      "release" : {
+        "delaySeconds" : 0.019894951926809717,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7674295026506,
+        "singleExponentialTau" : 0.0015742498247058412,
+        "t10" : 0.02019739469250382,
+        "t632" : 0.021444950225373408,
+        "t90" : 0.02197288420614188,
+        "t95" : 0.02213537780594973
+      },
+      "settlingTimeSeconds" : 0.22648526077097486,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -13.2,
+        "id" : 35,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:52:53Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -24.534461050101072,
+        "timeSeconds" : 0.05886621315192775
+      },
+      "id" : 36,
+      "inputPeakDBFS" : -20.98926544189453,
+      "inputRMSDBFS" : -38.89431381225586,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -13.200054168701172,
+      "outputRMSDBFS" : -20.10361099243164,
+      "overshootDB" : 12.999762767404135,
+      "release" : {
+        "delaySeconds" : 0.04194407171440118,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7539294216406687,
+        "singleExponentialTau" : 0.003749764776698572,
+        "t10" : 0.04249688171828642,
+        "t632" : 0.04397583841001315,
+        "t90" : 0.04441082016781578,
+        "t95" : 0.044492010003792076
+      },
+      "settlingTimeSeconds" : 0.2464399092970524,
+      "testPoint" : {
+        "burstSeconds" : 4,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -13.2,
+        "id" : 36,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:52:59Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -22.204776019595602,
+        "timeSeconds" : 0.031927437641723344
+      },
+      "id" : 37,
+      "inputPeakDBFS" : -18.619935989379883,
+      "inputRMSDBFS" : -39.83114242553711,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -10.800055503845215,
+      "outputRMSDBFS" : -30.85616111755371,
+      "overshootDB" : 13.583635693819023,
+      "release" : {
+        "delaySeconds" : 0.0009179547757569353,
+        "initialSlopeDBPerSecond" : 371.26765009147675,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.4495401519752098,
+        "singleExponentialTau" : 0.08065706459442923,
+        "t10" : 0.009522693106863137,
+        "t632" : 0.019423793344161954,
+        "t90" : 0.020192517343933816,
+        "t95" : 0.020319161278674946
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.05,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -10.8,
+        "id" : 37,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:53:06Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -22.258669481327352,
+        "timeSeconds" : 0.022947845804988543
+      },
+      "id" : 38,
+      "inputPeakDBFS" : -18.61975860595703,
+      "inputRMSDBFS" : -39.608036041259766,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -10.800055503845215,
+      "outputRMSDBFS" : -26.8255615234375,
+      "overshootDB" : 14.590003091089606,
+      "release" : {
+        "delaySeconds" : 0.007051271011240913,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7554949016961173,
+        "singleExponentialTau" : 0.0033808965188937847,
+        "t10" : 0.008011739242068895,
+        "t632" : 0.00937147526123847,
+        "t90" : 0.009903158621434519,
+        "t95" : 0.010025316270735907
+      },
+      "settlingTimeSeconds" : 0.19755102040816297,
+      "testPoint" : {
+        "burstSeconds" : 0.25,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -10.8,
+        "id" : 38,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:53:14Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -22.191865804219884,
+        "timeSeconds" : 0.003990929705215418
+      },
+      "id" : 39,
+      "inputPeakDBFS" : -18.620208740234375,
+      "inputRMSDBFS" : -39.17142105102539,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -10.800055503845215,
+      "outputRMSDBFS" : -22.049259185791016,
+      "overshootDB" : 14.86838538058716,
+      "release" : {
+        "delaySeconds" : 0.011732857351966849,
+        "initialSlopeDBPerSecond" : 99.23420870653332,
+        "lateSlopeDBPerSecond" : 60.76862814009226,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.8826586170623105,
+        "singleExponentialTau" : 0.10654158998783052,
+        "t10" : 0.04181378172697512,
+        "t632" : 0.12208324665621224,
+        "t90" : 0.1922996830397549,
+        "t95" : 0.224793283371003
+      },
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -10.8,
+        "id" : 39,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:53:25Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -22.166611106091626,
+        "timeSeconds" : 0.0618594104308392
+      },
+      "id" : 40,
+      "inputPeakDBFS" : -18.623390197753906,
+      "inputRMSDBFS" : -38.43016052246094,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -10.800055503845215,
+      "outputRMSDBFS" : -17.760679244995117,
+      "overshootDB" : 14.899908999172563,
+      "release" : {
+        "delaySeconds" : 0.045921201679712406,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7624020064089289,
+        "singleExponentialTau" : 0.0019199200266285673,
+        "t10" : 0.04620199265311435,
+        "t632" : 0.0475820282549515,
+        "t90" : 0.04819034251464678,
+        "t95" : 0.048306766910353745
+      },
+      "settlingTimeSeconds" : 0.26040816326530614,
+      "testPoint" : {
+        "burstSeconds" : 4,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -10.8,
+        "id" : 40,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:53:31Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -19.863176535866742,
+        "timeSeconds" : 0.04290249433106608
+      },
+      "id" : 41,
+      "inputPeakDBFS" : -16.27703094482422,
+      "inputRMSDBFS" : -39.235015869140625,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -8.400054931640625,
+      "outputRMSDBFS" : -29.702035903930664,
+      "overshootDB" : 21.017779887021895,
+      "release" : {
+        "delaySeconds" : 0.0010237808939392045,
+        "initialSlopeDBPerSecond" : 287.7461783281374,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.4516446024587266,
+        "singleExponentialTau" : 0.09216520137638436,
+        "t10" : 0.010514821193156724,
+        "t632" : 0.030139091104002112,
+        "t90" : 0.030786267025610745,
+        "t95" : 0.030907063141725238
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.05,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -8.399999999999999,
+        "id" : 41,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:53:38Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -19.844365393524154,
+        "timeSeconds" : 0.030929705215419823
+      },
+      "id" : 42,
+      "inputPeakDBFS" : -16.27443504333496,
+      "inputRMSDBFS" : -38.889739990234375,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -8.400054931640625,
+      "outputRMSDBFS" : -24.805583953857422,
+      "overshootDB" : 16.40137747960853,
+      "release" : {
+        "delaySeconds" : 0.014644635823041667,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.754144487730265,
+        "singleExponentialTau" : 0.003039527141924114,
+        "t10" : 0.015295623584763773,
+        "t632" : 0.016866445225917393,
+        "t90" : 0.01739551471336042,
+        "t95" : 0.017489459540045285
+      },
+      "settlingTimeSeconds" : 0.20553287981859425,
+      "testPoint" : {
+        "burstSeconds" : 0.25,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -8.399999999999999,
+        "id" : 42,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:53:46Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -19.847700355297345,
+        "timeSeconds" : 0.04988662131519295
+      },
+      "id" : 43,
+      "inputPeakDBFS" : -16.274381637573242,
+      "inputRMSDBFS" : -38.61459732055664,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -8.400054931640625,
+      "outputRMSDBFS" : -19.756010055541992,
+      "overshootDB" : 16.729918923381238,
+      "release" : {
+        "delaySeconds" : 0.033036316019917716,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7487655438623184,
+        "singleExponentialTau" : 0.003964457166911549,
+        "t10" : 0.034024525687017984,
+        "t632" : 0.03548323067980946,
+        "t90" : 0.03611053690496847,
+        "t95" : 0.0362447973830141
+      },
+      "settlingTimeSeconds" : 0.25841269841269865,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -8.399999999999999,
+        "id" : 43,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:53:57Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -19.938417219939502,
+        "timeSeconds" : 0.070839002267574
+      },
+      "id" : 44,
+      "inputPeakDBFS" : -16.27496910095215,
+      "inputRMSDBFS" : -37.91264343261719,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -8.400054931640625,
+      "outputRMSDBFS" : -15.39437198638916,
+      "overshootDB" : 16.644169526357004,
+      "release" : {
+        "delaySeconds" : 0.05396549347267596,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7473793027021427,
+        "singleExponentialTau" : 0.0040864067338494785,
+        "t10" : 0.05453231108188153,
+        "t632" : 0.05612098493124189,
+        "t90" : 0.05662460457619699,
+        "t95" : 0.056718605751269024
+      },
+      "settlingTimeSeconds" : 0.2773696145124718,
+      "testPoint" : {
+        "burstSeconds" : 4,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -8.399999999999999,
+        "id" : 44,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:03Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -17.584758921108143,
+        "timeSeconds" : 0.04689342403628105
+      },
+      "id" : 45,
+      "inputPeakDBFS" : -13.938445091247559,
+      "inputRMSDBFS" : -38.37820053100586,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -6.000055313110352,
+      "outputRMSDBFS" : -28.260608673095703,
+      "overshootDB" : 23.303533484570696,
+      "release" : {
+        "delaySeconds" : 0.0011317772457167404,
+        "initialSlopeDBPerSecond" : 267.81420255613176,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.43858670355376095,
+        "singleExponentialTau" : 0.10110355508041377,
+        "t10" : 0.011557786206301907,
+        "t632" : 0.03532833090578275,
+        "t90" : 0.03614529544688472,
+        "t95" : 0.036273762834611055
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.05,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -6,
+        "id" : 45,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:10Z",
+      "clipped" : false,
+      "id" : 46,
+      "inputPeakDBFS" : -13.937397956848145,
+      "inputRMSDBFS" : -37.91913986206055,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -6.000055313110352,
+      "outputRMSDBFS" : -22.675859451293945,
+      "release" : {
+        "delaySeconds" : 0.003789300363107008,
+        "initialSlopeDBPerSecond" : 114.86708772174516,
+        "lateSlopeDBPerSecond" : 1.2571105269284828,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.643699589703094,
+        "singleExponentialTau" : 0.10506924374642845,
+        "t10" : 0.027228331606521827,
+        "t632" : 0.1113297658902352,
+        "t90" : 0.18446526422730974,
+        "t95" : 0.21791186335685483
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.25,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -6,
+        "id" : 46,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:18Z",
+      "clipped" : false,
+      "id" : 47,
+      "inputPeakDBFS" : -13.93104362487793,
+      "inputRMSDBFS" : -37.71221923828125,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -6.000055313110352,
+      "outputRMSDBFS" : -17.43045425415039,
+      "release" : {
+        "delaySeconds" : 0.0038203066552483502,
+        "initialSlopeDBPerSecond" : 114.21698377981211,
+        "lateSlopeDBPerSecond" : 0.3711820360114205,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.6157798284564762,
+        "singleExponentialTau" : 0.10661525705390129,
+        "t10" : 0.027211584416815683,
+        "t632" : 0.11192807612326579,
+        "t90" : 0.18398767047462972,
+        "t95" : 0.21650276255907164
+      },
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -6,
+        "id" : 47,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:29Z",
+      "clipped" : false,
+      "id" : 48,
+      "inputPeakDBFS" : -13.93960952758789,
+      "inputRMSDBFS" : -37.17180633544922,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -6.000055313110352,
+      "outputRMSDBFS" : -13.034379959106445,
+      "release" : {
+        "delaySeconds" : 0.00846090975271125,
+        "initialSlopeDBPerSecond" : 110.47517919234595,
+        "lateSlopeDBPerSecond" : 0.8215438821592093,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.8732985692842836,
+        "singleExponentialTau" : 0.11845471134351082,
+        "t10" : 0.03937612993588833,
+        "t632" : 0.12772214390933767,
+        "t90" : 0.2010445537363457,
+        "t95" : 0.23448054707942603
+      },
+      "testPoint" : {
+        "burstSeconds" : 4,
+        "family" : "release",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -6,
+        "id" : 48,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 3
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:31Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -18.382191332700447,
+        "timeSeconds" : 0.005986394557823127
+      },
+      "id" : 49,
+      "inputPeakDBFS" : -16.380268096923828,
+      "inputRMSDBFS" : -35.96295928955078,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.00000286102295,
+      "outputRMSDBFS" : -18.30251121520996,
+      "overshootDB" : 25.969835383026425,
+      "peakSeparationSeconds" : 0.024943310657596418,
+      "secondPeak" : {
+        "levelDBFS" : -23.444517066609226,
+        "timeSeconds" : 0.030929705215419545
+      },
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "frequencySensitivity",
+        "frequencyHz" : 40,
+        "highLevelDBFS" : -12,
+        "id" : 49,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:33Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -25.697378931582797,
+        "timeSeconds" : 0.003990929705215418
+      },
+      "id" : 50,
+      "inputPeakDBFS" : -16.386842727661133,
+      "inputRMSDBFS" : -35.967830657958984,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.00000286102295,
+      "outputRMSDBFS" : -18.252059936523438,
+      "overshootDB" : 41.77906186864228,
+      "peakSeparationSeconds" : 0.024943310657596418,
+      "secondPeak" : {
+        "levelDBFS" : -29.436784183790987,
+        "timeSeconds" : 0.028934240362811836
+      },
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "harmonics",
+        "frequencyHz" : 40,
+        "highLevelDBFS" : -12,
+        "id" : 50,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:36Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -14.870995887473857,
+        "timeSeconds" : 0.02294784580498871
+      },
+      "id" : 51,
+      "inputPeakDBFS" : -13.494549751281738,
+      "inputRMSDBFS" : -34.62347412109375,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.00000286102295,
+      "outputRMSDBFS" : -18.246089935302734,
+      "overshootDB" : 24.575017151239816,
+      "peakSeparationSeconds" : 0.024943310657596363,
+      "secondPeak" : {
+        "levelDBFS" : -20.593270540821344,
+        "timeSeconds" : 0.04789115646258507
+      },
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "frequencySensitivity",
+        "frequencyHz" : 80,
+        "highLevelDBFS" : -12,
+        "id" : 51,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:38Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -20.61456670985601,
+        "timeSeconds" : 0.003990929705215418
+      },
+      "id" : 52,
+      "inputPeakDBFS" : -13.490564346313477,
+      "inputRMSDBFS" : -34.62083053588867,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.00000286102295,
+      "outputRMSDBFS" : -18.32017707824707,
+      "overshootDB" : 34.059178103361546,
+      "peakSeparationSeconds" : 0.024943310657596418,
+      "secondPeak" : {
+        "levelDBFS" : -25.020727662137773,
+        "timeSeconds" : 0.028934240362811836
+      },
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "harmonics",
+        "frequencyHz" : 80,
+        "highLevelDBFS" : -12,
+        "id" : 52,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:40Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -22.58016091276311,
+        "timeSeconds" : 0.0029931972789115635
+      },
+      "id" : 53,
+      "inputPeakDBFS" : -11.753682136535645,
+      "inputRMSDBFS" : -33.692176818847656,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.255050659179688,
+      "overshootDB" : 44.63339467599131,
+      "peakSeparationSeconds" : 0.021950113378684855,
+      "secondPeak" : {
+        "levelDBFS" : -26.18068349640131,
+        "timeSeconds" : 0.024943310657596418
+      },
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "frequencySensitivity",
+        "frequencyHz" : 200,
+        "highLevelDBFS" : -12,
+        "id" : 53,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:42Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -14.931721816637658,
+        "timeSeconds" : 0.024943310657596418
+      },
+      "id" : 54,
+      "inputPeakDBFS" : -11.741649627685547,
+      "inputRMSDBFS" : -33.885780334472656,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.26101303100586,
+      "overshootDB" : 23.55255026328931,
+      "peakSeparationSeconds" : 0.0219501133786848,
+      "secondPeak" : {
+        "levelDBFS" : -19.537852314484883,
+        "timeSeconds" : 0.04689342403628122
+      },
+      "settlingTimeSeconds" : 1.0017233560090704,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "harmonics",
+        "frequencyHz" : 200,
+        "highLevelDBFS" : -12,
+        "id" : 54,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:45Z",
+      "clipped" : false,
+      "id" : 55,
+      "inputPeakDBFS" : -10.416116714477539,
+      "inputRMSDBFS" : -32.385467529296875,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.290687561035156,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "frequencySensitivity",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 55,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:47Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -13.971939605969805,
+        "timeSeconds" : 0.020952380952381
+      },
+      "id" : 56,
+      "inputPeakDBFS" : -10.436723709106445,
+      "inputRMSDBFS" : -32.60358810424805,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.255054473876953,
+      "overshootDB" : 23.330727297964376,
+      "settlingTimeSeconds" : 0.26539682539682546,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "harmonics",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 56,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:49Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -13.317634917958781,
+        "timeSeconds" : 0.0069841269841269815
+      },
+      "id" : 57,
+      "inputPeakDBFS" : -9.726134300231934,
+      "inputRMSDBFS" : -31.726360321044922,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.25803565979004,
+      "overshootDB" : 23.336984187035693,
+      "settlingTimeSeconds" : 0.24943310657596368,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "frequencySensitivity",
+        "frequencyHz" : 5000,
+        "highLevelDBFS" : -12,
+        "id" : 57,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:52Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -13.354716876667629,
+        "timeSeconds" : 0.014965986394557873
+      },
+      "id" : 58,
+      "inputPeakDBFS" : -9.739775657653809,
+      "inputRMSDBFS" : -31.737220764160156,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.246089935302734,
+      "overshootDB" : 23.298251906556054,
+      "settlingTimeSeconds" : 0.2584126984126985,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "harmonics",
+        "frequencyHz" : 5000,
+        "highLevelDBFS" : -12,
+        "id" : 58,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:54Z",
+      "clipped" : false,
+      "id" : 59,
+      "inputPeakDBFS" : -10.211714744567871,
+      "inputRMSDBFS" : -32.22373580932617,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.290693283081055,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "frequencySensitivity",
+        "frequencyHz" : 10000,
+        "highLevelDBFS" : -12,
+        "id" : 59,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:56Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -13.843956250718561,
+        "timeSeconds" : 0.015963718820861728
+      },
+      "id" : 60,
+      "inputPeakDBFS" : -10.214129447937012,
+      "inputRMSDBFS" : -32.22038269042969,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.24908447265625,
+      "overshootDB" : 23.29566426367822,
+      "settlingTimeSeconds" : 0.25941043083900234,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "harmonics",
+        "frequencyHz" : 10000,
+        "highLevelDBFS" : -12,
+        "id" : 60,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:54:59Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -36.13667920232012,
+        "timeSeconds" : 0.2185034013605442
+      },
+      "id" : 61,
+      "inputPeakDBFS" : -8.924323081970215,
+      "inputRMSDBFS" : -31.61847686767578,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.275869369506836,
+      "overshootDB" : 0.4033132000416586,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "frequencySensitivity",
+        "frequencyHz" : 16000,
+        "highLevelDBFS" : -12,
+        "id" : 61,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:01Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -13.13649588909387,
+        "timeSeconds" : 0.017959183673469437
+      },
+      "id" : 62,
+      "inputPeakDBFS" : -8.930290222167969,
+      "inputRMSDBFS" : -31.809833526611328,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.263992309570312,
+      "overshootDB" : 23.384528912602924,
+      "peakSeparationSeconds" : 0.21850340136054414,
+      "secondPeak" : {
+        "levelDBFS" : -36.07088871773621,
+        "timeSeconds" : 0.23646258503401357
+      },
+      "settlingTimeSeconds" : 0.2584126984126985,
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "harmonics",
+        "frequencyHz" : 16000,
+        "highLevelDBFS" : -12,
+        "id" : 62,
+        "lowLevelDBFS" : -42,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:05Z",
+      "clipped" : false,
+      "id" : 63,
+      "inputPeakDBFS" : -9.695176124572754,
+      "inputRMSDBFS" : -39.489219665527344,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -40.75183868408203,
+      "release" : {
+        "delaySeconds" : 0.0017390897252434357,
+        "initialSlopeDBPerSecond" : 3145.7972407385264,
+        "lateSlopeDBPerSecond" : 3224.315993962677,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7079982344384024,
+        "singleExponentialTau" : 0.011117415414202686,
+        "t10" : 0.004788556642054558,
+        "t632" : 0.006714837999966078,
+        "t90" : 0.008282353713588415,
+        "t95" : 0.009319130320041355
+      },
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.01,
+        "family" : "programDependency",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 63,
+        "lowLevelDBFS" : -48,
+        "repetition" : 0,
+        "restSeconds" : 2
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.00024389719955615906,
+        "initialSlopeDBPerSecond" : 4953.760277966096,
+        "lateSlopeDBPerSecond" : 1795.0965151646099,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.6095158729304596,
+        "singleExponentialTau" : 0.0032771351991979633,
+        "t10" : 0.0019653012767819186,
+        "t632" : 0.0037896205535033786,
+        "t90" : 0.007851209463733909,
+        "t95" : 0.010059183375901367
+      },
+      "capturedAt" : "2026-08-28T00:55:10Z",
+      "clipped" : false,
+      "id" : 64,
+      "inputPeakDBFS" : -9.694775581359863,
+      "inputRMSDBFS" : -36.65980911254883,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -36.30668258666992,
+      "release" : {
+        "delaySeconds" : 0.11175434827038506,
+        "initialSlopeDBPerSecond" : 142.6960280446385,
+        "lateSlopeDBPerSecond" : 0.9730336724861561,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.5573538073824846,
+        "singleExponentialTau" : 0.0498728918382957,
+        "t10" : 0.11954157214375437,
+        "t632" : 0.1654715553727049,
+        "t90" : 0.21050893622175576,
+        "t95" : 0.23614044187911748
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.03,
+        "family" : "programDependency",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 64,
+        "lowLevelDBFS" : -48,
+        "repetition" : 0,
+        "restSeconds" : 2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:14Z",
+      "clipped" : false,
+      "id" : 65,
+      "inputPeakDBFS" : -9.693023681640625,
+      "inputRMSDBFS" : -35.40210723876953,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -31.242856979370117,
+      "release" : {
+        "delaySeconds" : 0.07091775131533698,
+        "initialSlopeDBPerSecond" : 134.75731215240626,
+        "lateSlopeDBPerSecond" : 110.32180052953443,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.8584563831649548,
+        "singleExponentialTau" : 0.0938486067011495,
+        "t10" : 0.08770439481289762,
+        "t632" : 0.16136853036739485,
+        "t90" : 0.209790554889789,
+        "t95" : 0.23486703168191386
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.1,
+        "family" : "programDependency",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 65,
+        "lowLevelDBFS" : -48,
+        "repetition" : 0,
+        "restSeconds" : 2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:19Z",
+      "clipped" : false,
+      "id" : 66,
+      "inputPeakDBFS" : -9.694535255432129,
+      "inputRMSDBFS" : -35.38935852050781,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -26.706356048583984,
+      "release" : {
+        "delaySeconds" : 0.005393817848413383,
+        "initialSlopeDBPerSecond" : 123.75982282416201,
+        "lateSlopeDBPerSecond" : 1.991750603365742,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.5035525064335933,
+        "singleExponentialTau" : 0.14674046921449052,
+        "t10" : 0.03459535078307003,
+        "t632" : 0.13046174990001122,
+        "t90" : 0.18248435002776428,
+        "t95" : 0.20681568366240413
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.3,
+        "family" : "programDependency",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 66,
+        "lowLevelDBFS" : -48,
+        "repetition" : 0,
+        "restSeconds" : 2
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.001435201221072427,
+        "initialSlopeDBPerSecond" : 155.71873251257296,
+        "lateSlopeDBPerSecond" : 7.075651051055233,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.24732178610843625,
+        "singleExponentialTau" : 0.4494022674446806,
+        "t10" : 0.014648982573313514,
+        "t632" : 0.1673273701584512,
+        "t90" : 0.9682848162641312,
+        "t95" : 0.9685733239052339
+      },
+      "capturedAt" : "2026-08-28T00:55:24Z",
+      "clipped" : false,
+      "id" : 67,
+      "inputPeakDBFS" : -9.696564674377441,
+      "inputRMSDBFS" : -35.606422424316406,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -22.088834762573242,
+      "release" : {
+        "delaySeconds" : 0.004706425452529398,
+        "initialSlopeDBPerSecond" : 123.38714745252558,
+        "lateSlopeDBPerSecond" : 2.0035831344120054,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.491378590010901,
+        "singleExponentialTau" : 0.14702341159149251,
+        "t10" : 0.03373636697482668,
+        "t632" : 0.12968175534399579,
+        "t90" : 0.18158985985843834,
+        "t95" : 0.20586927110725933
+      },
+      "testPoint" : {
+        "burstSeconds" : 1,
+        "family" : "programDependency",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 67,
+        "lowLevelDBFS" : -48,
+        "repetition" : 0,
+        "restSeconds" : 2
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0011640680665870623,
+        "initialSlopeDBPerSecond" : 187.92198695412307,
+        "lateSlopeDBPerSecond" : 95.74442318628478,
+        "model" : "single exponential",
+        "singleExponentialFit" : 0.9432797449137353,
+        "singleExponentialTau" : 0.07818478633906056,
+        "t10" : 0.011709434198132975,
+        "t632" : 0.08287837817848238,
+        "t90" : 0.15061726409405793,
+        "t95" : 0.18266419846964196
+      },
+      "capturedAt" : "2026-08-28T00:55:32Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -13.240392876308551,
+        "timeSeconds" : 0.0029931972789116745
+      },
+      "id" : 68,
+      "inputPeakDBFS" : -9.699822425842285,
+      "inputRMSDBFS" : -36.02012252807617,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -12.000055313110352,
+      "outputRMSDBFS" : -18.778249740600586,
+      "overshootDB" : 24.051562674941618,
+      "release" : {
+        "delaySeconds" : 0.016985394049834353,
+        "initialSlopeDBPerSecond" : 120.7533713910382,
+        "lateSlopeDBPerSecond" : 127.62799821741186,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.742178452300733,
+        "singleExponentialTau" : 0.16210541557055783,
+        "t10" : 0.0534844954080744,
+        "t632" : 0.1532768617414059,
+        "t90" : 0.20619221160641743,
+        "t95" : 0.23058248251598887
+      },
+      "testPoint" : {
+        "burstSeconds" : 3,
+        "family" : "programDependency",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -12,
+        "id" : 68,
+        "lowLevelDBFS" : -48,
+        "repetition" : 0,
+        "restSeconds" : 2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:33Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -40.3969173372065,
+        "timeSeconds" : 0.0029931972789115635
+      },
+      "id" : 69,
+      "inputPeakDBFS" : -31.798686981201172,
+      "inputRMSDBFS" : -42.89060592651367,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -30.00005531311035,
+      "outputRMSDBFS" : -33.62961196899414,
+      "overshootDB" : 3.1301039579481085,
+      "peakSeparationSeconds" : 0.02993197278911565,
+      "secondPeak" : {
+        "levelDBFS" : -40.716349802343565,
+        "timeSeconds" : 0.03292517006802721
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "reference",
+        "frequencyHz" : 50,
+        "highLevelDBFS" : -30,
+        "id" : 69,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:34Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -40.736172623103826,
+        "timeSeconds" : 0.005986394557823127
+      },
+      "id" : 70,
+      "inputPeakDBFS" : -29.609601974487305,
+      "inputRMSDBFS" : -42.10140609741211,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -30.00005531311035,
+      "outputRMSDBFS" : -33.529911041259766,
+      "overshootDB" : 2.2598967644925096,
+      "peakSeparationSeconds" : 0.024943310657596376,
+      "secondPeak" : {
+        "levelDBFS" : -41.29701259894244,
+        "timeSeconds" : 0.030929705215419503
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "reference",
+        "frequencyHz" : 100,
+        "highLevelDBFS" : -30,
+        "id" : 70,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:35Z",
+      "clipped" : false,
+      "id" : 71,
+      "inputPeakDBFS" : -27.668235778808594,
+      "inputRMSDBFS" : -40.242881774902344,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -30.00005531311035,
+      "outputRMSDBFS" : -33.5945930480957,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "reference",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -30,
+        "id" : 71,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:36Z",
+      "clipped" : false,
+      "id" : 72,
+      "inputPeakDBFS" : -27.43931007385254,
+      "inputRMSDBFS" : -40.04389953613281,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -30.00005531311035,
+      "outputRMSDBFS" : -33.51979064941406,
+      "settlingTimeSeconds" : 0,
+      "testPoint" : {
+        "burstSeconds" : 0.5,
+        "family" : "reference",
+        "frequencyHz" : 10000,
+        "highLevelDBFS" : -30,
+        "id" : 72,
+        "lowLevelDBFS" : -30,
+        "repetition" : 0,
+        "restSeconds" : 0.2
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:55:42Z",
+      "clipped" : false,
+      "id" : 73,
+      "inputPeakDBFS" : -72.25993347167969,
+      "inputRMSDBFS" : -83.12452697753906,
+      "outputPeakDBFS" : -160,
+      "outputRMSDBFS" : -160,
+      "testPoint" : {
+        "burstSeconds" : 4,
+        "family" : "noiseFloor",
+        "frequencyHz" : 1000,
+        "highLevelDBFS" : -160,
+        "id" : 73,
+        "lowLevelDBFS" : -160,
+        "repetition" : 0,
+        "restSeconds" : 0.5
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0024923332915854856,
+        "initialSlopeDBPerSecond" : 36.80632553938476,
+        "lateSlopeDBPerSecond" : 23.464127548519038,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.34943951247380584,
+        "t10" : 0.032518030424184496,
+        "t632" : 0.0957471085252985,
+        "t90" : 0.09624549562042405,
+        "t95" : 0.09633458724226569
+      },
+      "capturedAt" : "2026-08-28T00:55:42Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -35.62703265910619,
+        "timeSeconds" : 0.0029931972789115635
+      },
+      "id" : 74,
+      "inputPeakDBFS" : -24.545726776123047,
+      "inputRMSDBFS" : -37.42485427856445,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -24.482688903808594,
+      "outputRMSDBFS" : -32.38552474975586,
+      "overshootDB" : 14.293362123495427,
+      "peakSeparationSeconds" : 0.022947845804988654,
+      "release" : {
+        "delaySeconds" : 0.000311528950943674,
+        "initialSlopeDBPerSecond" : 19.04804867863455,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.09887952612806455,
+        "t10" : 0.00961495857978329
+      },
+      "secondPeak" : {
+        "levelDBFS" : -36.70560190825632,
+        "timeSeconds" : 0.025941043083900217
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.17543305338264667,
+        "family" : "programDependency",
+        "frequencyHz" : 2223.6982099680613,
+        "highLevelDBFS" : -24.482688903808594,
+        "id" : 74,
+        "lowLevelDBFS" : -37.67420768737793,
+        "repetition" : 0,
+        "restSeconds" : 0.1382485570300602
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0018449178844700907,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 1689.2027946245805,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.04614575874480138,
+        "t10" : 0.06424301023366022,
+        "t632" : 0.06685604512702384,
+        "t90" : 0.07193629056180244,
+        "t95" : 0.07313510812016148
+      },
+      "capturedAt" : "2026-08-28T00:55:43Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -45.02329356998647,
+        "timeSeconds" : 0.0069841269841269815
+      },
+      "id" : 75,
+      "inputPeakDBFS" : -22.13813018798828,
+      "inputRMSDBFS" : -38.605953216552734,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -17.307222366333008,
+      "outputRMSDBFS" : -32.566070556640625,
+      "overshootDB" : 5.361354177673157,
+      "release" : {
+        "delaySeconds" : 0,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.016361849266331368,
+        "family" : "programDependency",
+        "frequencyHz" : 705.6823678401055,
+        "highLevelDBFS" : -17.30719757080078,
+        "id" : 75,
+        "lowLevelDBFS" : -34.095726013183594,
+        "repetition" : 0,
+        "restSeconds" : 0.06849996404720991
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0003777991982462263,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.12826809424571783,
+        "t10" : 0.02901672568172601,
+        "t632" : 0.029459472774681014,
+        "t90" : 0.0296823599416459,
+        "t95" : 0.02972396208289089
+      },
+      "capturedAt" : "2026-08-28T00:55:49Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -11.176479445577458,
+        "timeSeconds" : 0.040907029478458146
+      },
+      "id" : 76,
+      "inputPeakDBFS" : -7.4653000831604,
+      "inputRMSDBFS" : -33.98649978637695,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -9.376510620117188,
+      "outputRMSDBFS" : -23.7122745513916,
+      "overshootDB" : 25.33210660285394,
+      "peakSeparationSeconds" : 0.03392290249433083,
+      "release" : {
+        "delaySeconds" : 0.0001970098852409316,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.24266045108769008,
+        "singleExponentialTau" : 0.12551764675751503,
+        "t10" : 0.02521489127400638,
+        "t632" : 0.027247090866865144,
+        "t90" : 0.027827840046708317,
+        "t95" : 0.027936237536508868
+      },
+      "secondPeak" : {
+        "levelDBFS" : -17.535595004534507,
+        "timeSeconds" : 0.07482993197278898
+      },
+      "settlingTimeSeconds" : 0.31927437641723344,
+      "testPoint" : {
+        "burstSeconds" : 0.41282723490143625,
+        "family" : "programDependency",
+        "frequencyHz" : 1175.1600107056504,
+        "highLevelDBFS" : -9.376510620117188,
+        "id" : 76,
+        "lowLevelDBFS" : -42.41209030151367,
+        "repetition" : 0,
+        "restSeconds" : 2.558394197386597
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0027710868906572397,
+        "initialSlopeDBPerSecond" : 433.3033554430125,
+        "lateSlopeDBPerSecond" : 470.67129319929194,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.2479478102916467,
+        "singleExponentialTau" : 0.029057030834571035,
+        "t10" : 0.004139888797143694,
+        "t632" : 0.03477410834699604,
+        "t90" : 0.04672301153804811,
+        "t95" : 0.047216159589143616
+      },
+      "capturedAt" : "2026-08-28T00:55:50Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -20.679553603103678,
+        "timeSeconds" : 0.009977324263038545
+      },
+      "id" : 77,
+      "inputPeakDBFS" : -5.774198055267334,
+      "inputRMSDBFS" : -31.427597045898438,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -8.053962707519531,
+      "outputRMSDBFS" : -23.754352569580078,
+      "overshootDB" : 39.091261681704545,
+      "release" : {
+        "delaySeconds" : 0.013747762892714037,
+        "initialSlopeDBPerSecond" : -3.3412926129812672,
+        "lateSlopeDBPerSecond" : 6.794417173884392,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.35608673572610733,
+        "t10" : 0.014132199836292398,
+        "t632" : 0.10323618633120978,
+        "t90" : 0.11849064583168951,
+        "t95" : 0.11863181668381208
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.0712371580515694,
+        "family" : "programDependency",
+        "frequencyHz" : 33.55842236716677,
+        "highLevelDBFS" : -8.053962707519531,
+        "id" : 77,
+        "lowLevelDBFS" : -49.19963836669922,
+        "repetition" : 0,
+        "restSeconds" : 0.5448435536668459
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0011758836141654567,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.010346860626514682,
+        "t10" : 0.0012522341232490482,
+        "t632" : 0.001703652740586887,
+        "t90" : 0.0019309053151031937,
+        "t95" : 0.0019733222645940776
+      },
+      "capturedAt" : "2026-08-28T00:55:53Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -55.941984422476104,
+        "timeSeconds" : 0.00897959183673458
+      },
+      "id" : 78,
+      "inputPeakDBFS" : -25.758716583251953,
+      "inputRMSDBFS" : -47.06612014770508,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -28.619659423828125,
+      "outputRMSDBFS" : -46.382606506347656,
+      "overshootDB" : 2.2953958074266865,
+      "release" : {
+        "delaySeconds" : 8.924881513783135e-05,
+        "initialSlopeDBPerSecond" : 66.15648438360004,
+        "lateSlopeDBPerSecond" : 0.7110180392652251,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.08640938684060556,
+        "t10" : 0.0008924881513783136,
+        "t632" : 0.05157323135814226,
+        "t90" : 0.08778261324004015,
+        "t95" : 0.10665894027306336
+      },
+      "settlingTimeSeconds" : 0.05088435374149647,
+      "testPoint" : {
+        "burstSeconds" : 0.0530187502667354,
+        "family" : "programDependency",
+        "frequencyHz" : 237.20055597274208,
+        "highLevelDBFS" : -28.619659423828125,
+        "id" : 78,
+        "lowLevelDBFS" : -48.00295829772949,
+        "repetition" : 0,
+        "restSeconds" : 1.0634848685929257
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 6.265461291721253e-05,
+        "initialSlopeDBPerSecond" : 12.46714346603193,
+        "lateSlopeDBPerSecond" : -0.2974309385165605,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.14052707142568738,
+        "t10" : 0.0006265461291721253,
+        "t632" : 0.022395280952726644,
+        "t90" : 0.022655936213515016,
+        "t95" : 0.02270458781209394
+      },
+      "capturedAt" : "2026-08-28T00:55:56Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -18.014585492145375,
+        "timeSeconds" : 0.040907029478457924
+      },
+      "id" : 79,
+      "inputPeakDBFS" : -13.255568504333496,
+      "inputRMSDBFS" : -38.9494514465332,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -15.146005630493164,
+      "outputRMSDBFS" : -26.67644691467285,
+      "overshootDB" : 21.78485629245434,
+      "peakSeparationSeconds" : 0.020952380952381056,
+      "release" : {
+        "delaySeconds" : 0.0028874222967406283,
+        "initialSlopeDBPerSecond" : 146.41517209488543,
+        "lateSlopeDBPerSecond" : 1.1881101762867243,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.35899419947813116,
+        "t10" : 0.0036151282714622255,
+        "t632" : 0.023536449058679364,
+        "t90" : 0.02485216615572005,
+        "t95" : 0.025224976377790597
+      },
+      "secondPeak" : {
+        "levelDBFS" : -22.620937555468082,
+        "timeSeconds" : 0.06185941043083898
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.4495573903204738,
+        "family" : "programDependency",
+        "frequencyHz" : 95.91866578420864,
+        "highLevelDBFS" : -15.146003723144531,
+        "id" : 79,
+        "lowLevelDBFS" : -52.56091117858887,
+        "repetition" : 0,
+        "restSeconds" : 1.3117687884364129
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0006388173670184938,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.3662789075194348,
+        "singleExponentialTau" : 0.026756188261295673,
+        "t10" : 0.008343237567659563,
+        "t632" : 0.0093695088685018,
+        "t90" : 0.009656226851966793,
+        "t95" : 0.00970974308714542
+      },
+      "capturedAt" : "2026-08-28T00:55:58Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -13.420562694290194,
+        "timeSeconds" : 0.020952380952380945
+      },
+      "id" : 80,
+      "inputPeakDBFS" : -8.625457763671875,
+      "inputRMSDBFS" : -30.733840942382812,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -10.675186157226562,
+      "outputRMSDBFS" : -15.702657699584961,
+      "overshootDB" : 25.230376620312956,
+      "peakSeparationSeconds" : 0.0219501133786848,
+      "release" : {
+        "delaySeconds" : 0.0002866891604830158,
+        "initialSlopeDBPerSecond" : 4679.561777164921,
+        "lateSlopeDBPerSecond" : 2165.6760285678592,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.09712243301252987,
+        "singleExponentialTau" : 0.01135416244004781,
+        "t10" : 0.006481195293273422,
+        "t632" : 0.009832750122427037,
+        "t90" : 0.012088570005562582,
+        "t95" : 0.012474916903415212
+      },
+      "secondPeak" : {
+        "levelDBFS" : -17.697360492975786,
+        "timeSeconds" : 0.042902494331065744
+      },
+      "settlingTimeSeconds" : 0.8560544217687074,
+      "testPoint" : {
+        "burstSeconds" : 0.8535935820150259,
+        "family" : "programDependency",
+        "frequencyHz" : 133.40934409735846,
+        "highLevelDBFS" : -10.675186157226562,
+        "id" : 80,
+        "lowLevelDBFS" : -55.266780853271484,
+        "repetition" : 0,
+        "restSeconds" : 0.19622600313588287
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0012870025038616744,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.2782549346656471,
+        "t10" : 0.006016885541758983,
+        "t632" : 0.006484784684336255,
+        "t90" : 0.0067203338634811635,
+        "t95" : 0.0067642993835888
+      },
+      "capturedAt" : "2026-08-28T00:56:00Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -21.78764529967363,
+        "timeSeconds" : 0.018956916099773236
+      },
+      "id" : 81,
+      "inputPeakDBFS" : -18.17327880859375,
+      "inputRMSDBFS" : -37.863792419433594,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -18.33489990234375,
+      "outputRMSDBFS" : -23.432044982910156,
+      "overshootDB" : 17.611399850595046,
+      "peakSeparationSeconds" : 0.04689342403628122,
+      "release" : {
+        "delaySeconds" : 0.003319927001693218,
+        "initialSlopeDBPerSecond" : 866.6357946648884,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.22556342141126717,
+        "singleExponentialTau" : 0.0038664968354403515,
+        "t10" : 0.0037782981955169245,
+        "t632" : 0.005532564398800167,
+        "t90" : 0.006085041351659323,
+        "t95" : 0.006234888957070582
+      },
+      "secondPeak" : {
+        "levelDBFS" : -29.87592596615826,
+        "timeSeconds" : 0.06585034013605445
+      },
+      "settlingTimeSeconds" : 0.2434467120181406,
+      "testPoint" : {
+        "burstSeconds" : 1.2995680743406268,
+        "family" : "programDependency",
+        "frequencyHz" : 367.4850903902038,
+        "highLevelDBFS" : -18.33489990234375,
+        "id" : 81,
+        "lowLevelDBFS" : -40.87669372558594,
+        "repetition" : 0,
+        "restSeconds" : 0.3416867515080619
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.00036935454049693813,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.020268048533804692,
+        "t10" : 0.0063351938819055835,
+        "t632" : 0.007105196510156882,
+        "t90" : 0.007518734931862528,
+        "t95" : 0.0075959223449572465
+      },
+      "capturedAt" : "2026-08-28T00:56:01Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -32.743311917645165,
+        "timeSeconds" : 0.023945578231292508
+      },
+      "id" : 82,
+      "inputPeakDBFS" : -31.973464965820312,
+      "inputRMSDBFS" : -44.39560317993164,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -25.82416534423828,
+      "outputRMSDBFS" : -38.02095031738281,
+      "overshootDB" : 7.077254574632974,
+      "release" : {
+        "delaySeconds" : 0.0009517659575869117,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : -9.774371260810161,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.12198309532419328,
+        "t10" : 0.0012216360230745738,
+        "t632" : 0.002498118356647476,
+        "t90" : 0.003388563883415062,
+        "t95" : 0.003796212800767841
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.03344030748303013,
+        "family" : "programDependency",
+        "frequencyHz" : 59.0221995623436,
+        "highLevelDBFS" : -25.82416534423828,
+        "id" : 82,
+        "lowLevelDBFS" : -36.09712600708008,
+        "repetition" : 0,
+        "restSeconds" : 0.29676240907963236
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.025950124588664154,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "t10" : 0.026032353837968168,
+        "t632" : 0.02651853021676489,
+        "t90" : 0.026763280498448293,
+        "t95" : 0.026808963414728302
+      },
+      "capturedAt" : "2026-08-28T00:56:06Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -23.915284809319527,
+        "timeSeconds" : 0.03891156462585066
+      },
+      "id" : 83,
+      "inputPeakDBFS" : -20.451522827148438,
+      "inputRMSDBFS" : -45.545814514160156,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -23.011825561523438,
+      "outputRMSDBFS" : -41.33750915527344,
+      "overshootDB" : 10.725304606150356,
+      "release" : {
+        "delaySeconds" : 0.004032549828485432,
+        "initialSlopeDBPerSecond" : 2216.6015693894947,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.3024899428463812,
+        "singleExponentialTau" : 0.1056435258565505,
+        "t10" : 0.024314247837926482,
+        "t632" : 0.02715044967644886,
+        "t90" : 0.027521248180790644,
+        "t95" : 0.027590458140076858
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.136587519245202,
+        "family" : "programDependency",
+        "frequencyHz" : 6881.428567750365,
+        "highLevelDBFS" : -23.011825561523438,
+        "id" : 83,
+        "lowLevelDBFS" : -57.3281192779541,
+        "repetition" : 0,
+        "restSeconds" : 2.2196885685671712
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0005742580144237904,
+        "initialSlopeDBPerSecond" : 97.39700203697285,
+        "lateSlopeDBPerSecond" : 29.826827313698672,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.8838039327928426,
+        "singleExponentialTau" : 0.05073053143374924,
+        "t10" : 0.005900725117955611,
+        "t632" : 0.05119064025272742,
+        "t90" : 0.1161856725514446,
+        "t95" : 0.16403761253007915
+      },
+      "capturedAt" : "2026-08-28T00:56:10Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -36.91971797687814,
+        "timeSeconds" : 0.07283446712018138
+      },
+      "id" : 84,
+      "inputPeakDBFS" : -27.02545166015625,
+      "inputRMSDBFS" : -38.79133605957031,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -19.710159301757812,
+      "outputRMSDBFS" : -23.73613166809082,
+      "overshootDB" : 1.7423489049002612,
+      "peakSeparationSeconds" : 0.0219501133786848,
+      "release" : {
+        "delaySeconds" : 0.005028282486026423,
+        "initialSlopeDBPerSecond" : 69.06457146780501,
+        "lateSlopeDBPerSecond" : 34.39672499055624,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.7837598215782354,
+        "singleExponentialTau" : 0.08180528192279839,
+        "t10" : 0.025694498127142668,
+        "t632" : 0.09244249762814713,
+        "t90" : 0.1603800370832133,
+        "t95" : 0.19342132618917293
+      },
+      "secondPeak" : {
+        "levelDBFS" : -37.619398091282584,
+        "timeSeconds" : 0.09478458049886618
+      },
+      "testPoint" : {
+        "burstSeconds" : 3.281185115688491,
+        "family" : "programDependency",
+        "frequencyHz" : 10226.236672952551,
+        "highLevelDBFS" : -19.710159301757812,
+        "id" : 84,
+        "lowLevelDBFS" : -30.150060653686523,
+        "repetition" : 0,
+        "restSeconds" : 0.4148550634698034
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:56:14Z",
+      "clipped" : false,
+      "id" : 85,
+      "inputPeakDBFS" : -11.544833183288574,
+      "inputRMSDBFS" : -39.02241134643555,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -14.662666320800781,
+      "outputRMSDBFS" : -41.077117919921875,
+      "release" : {
+        "delaySeconds" : 0.0919827146575244,
+        "initialSlopeDBPerSecond" : 122.1699996877129,
+        "lateSlopeDBPerSecond" : 1.098532082286724,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.29716845268496583,
+        "singleExponentialTau" : 0.053759023935183864,
+        "t10" : 0.10021275871171409,
+        "t632" : 0.14877380147320043,
+        "t90" : 0.19696353105708567,
+        "t95" : 0.22366239734061052
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.011094406316358963,
+        "family" : "programDependency",
+        "frequencyHz" : 5048.583818548935,
+        "highLevelDBFS" : -14.662651062011719,
+        "id" : 85,
+        "lowLevelDBFS" : -45.20585060119629,
+        "repetition" : 0,
+        "restSeconds" : 1.4295242390347118
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0003037171136115552,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.42890225317233976,
+        "singleExponentialTau" : 0.005216207054042238,
+        "t10" : 0.007070623909518692,
+        "t632" : 0.0077937652473625205,
+        "t90" : 0.008282642247244273,
+        "t95" : 0.008398800512159342
+      },
+      "capturedAt" : "2026-08-28T00:56:14Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -28.997875687693814,
+        "timeSeconds" : 0.020952380952380945
+      },
+      "id" : 86,
+      "inputPeakDBFS" : -24.67563819885254,
+      "inputRMSDBFS" : -40.765586853027344,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -27.926422119140625,
+      "outputRMSDBFS" : -34.83662033081055,
+      "overshootDB" : 11.64525605905525,
+      "peakSeparationSeconds" : 0.02294784580498868,
+      "release" : {
+        "delaySeconds" : 0.0006438140744464691,
+        "initialSlopeDBPerSecond" : 2233.0037368017092,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.02267644487425885,
+        "t10" : 0.005784061510436584,
+        "t632" : 0.00822920623239462,
+        "t90" : 0.008583177272337634,
+        "t95" : 0.00864924636640381
+      },
+      "secondPeak" : {
+        "levelDBFS" : -32.6231042267763,
+        "timeSeconds" : 0.043900226757369626
+      },
+      "settlingTimeSeconds" : 0.22149659863945576,
+      "testPoint" : {
+        "burstSeconds" : 0.2829180178014093,
+        "family" : "programDependency",
+        "frequencyHz" : 831.6200710186204,
+        "highLevelDBFS" : -27.926422119140625,
+        "id" : 86,
+        "lowLevelDBFS" : -58.15298080444336,
+        "repetition" : 0,
+        "restSeconds" : 0.14353473959617594
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0014576294368696735,
+        "initialSlopeDBPerSecond" : 86.61744637183966,
+        "lateSlopeDBPerSecond" : 0.4979604989976854,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.44519197262401355,
+        "singleExponentialTau" : 0.06174454872508908,
+        "t10" : 0.004663596987206232,
+        "t632" : 0.05158277503443907,
+        "t90" : 0.07978644378590645,
+        "t95" : 0.09066613722378837
+      },
+      "capturedAt" : "2026-08-28T00:56:16Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -22.428517440261174,
+        "timeSeconds" : 0.005986394557823127
+      },
+      "id" : 87,
+      "inputPeakDBFS" : -19.586572647094727,
+      "inputRMSDBFS" : -37.4705696105957,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -13.464591979980469,
+      "outputRMSDBFS" : -17.478954315185547,
+      "overshootDB" : 32.32216234970349,
+      "peakSeparationSeconds" : 0.0219501133786848,
+      "release" : {
+        "delaySeconds" : 0.0003352344509576699,
+        "initialSlopeDBPerSecond" : 90.12712396324659,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0.7435971187783899,
+        "singleExponentialTau" : 0.10731975992595058,
+        "t10" : 0.003079642203516595
+      },
+      "secondPeak" : {
+        "levelDBFS" : -26.923096237984637,
+        "timeSeconds" : 0.027936507936507926
+      },
+      "testPoint" : {
+        "burstSeconds" : 1.5173486704473877,
+        "family" : "programDependency",
+        "frequencyHz" : 180.40593585425157,
+        "highLevelDBFS" : -13.464591979980469,
+        "id" : 87,
+        "lowLevelDBFS" : -33.65592956542969,
+        "repetition" : 0,
+        "restSeconds" : 0.1055872023951483
+      }
+    },
+    {
+      "capturedAt" : "2026-08-28T00:56:18Z",
+      "clipped" : false,
+      "id" : 88,
+      "inputPeakDBFS" : -17.220008850097656,
+      "inputRMSDBFS" : -39.75199890136719,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -21.214141845703125,
+      "outputRMSDBFS" : -41.261085510253906,
+      "release" : {
+        "delaySeconds" : 0.0340185897721457,
+        "initialSlopeDBPerSecond" : 111.8260621421749,
+        "lateSlopeDBPerSecond" : 3.439717708211216,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0,
+        "singleExponentialTau" : 0.059358653241481533,
+        "t10" : 0.04797655642618749,
+        "t632" : 0.09772164599113885,
+        "t90" : 0.14159860916437608,
+        "t95" : 0.16872893642900774
+      },
+      "testPoint" : {
+        "burstSeconds" : 0.03047234620676347,
+        "family" : "programDependency",
+        "frequencyHz" : 3276.3367834277433,
+        "highLevelDBFS" : -21.214141845703125,
+        "id" : 88,
+        "lowLevelDBFS" : -51.887311935424805,
+        "repetition" : 0,
+        "restSeconds" : 0.7321551918855127
+      }
+    },
+    {
+      "attack" : {
+        "delaySeconds" : 0.0009006328664804938,
+        "initialSlopeDBPerSecond" : 193.60917922084445,
+        "lateSlopeDBPerSecond" : 3.2031841585915632,
+        "model" : "multi-stage \/ program-dependent",
+        "singleExponentialFit" : 0.8915170531808574,
+        "singleExponentialTau" : 0.09412995647347486,
+        "t10" : 0.015631139838222032,
+        "t632" : 0.09298164802795805,
+        "t90" : 0.15936922886176552,
+        "t95" : 0.18643760366008197
+      },
+      "capturedAt" : "2026-08-28T00:56:21Z",
+      "clipped" : false,
+      "firstPeak" : {
+        "levelDBFS" : -7.625360236550691,
+        "timeSeconds" : 0.0049886621315192725
+      },
+      "id" : 89,
+      "inputPeakDBFS" : -3.618568181991577,
+      "inputRMSDBFS" : -27.58526611328125,
+      "latencySeconds" : 0.09319727891156462,
+      "outputPeakDBFS" : -6.734321594238281,
+      "outputRMSDBFS" : -10.363608360290527,
+      "overshootDB" : 64.55417824196537,
+      "release" : {
+        "delaySeconds" : 0,
+        "initialSlopeDBPerSecond" : 0,
+        "lateSlopeDBPerSecond" : 0,
+        "model" : "non-exponential",
+        "singleExponentialFit" : 0
+      },
+      "testPoint" : {
+        "burstSeconds" : 2.3583132249723837,
+        "family" : "programDependency",
+        "frequencyHz" : 16058.8147510069,
+        "highLevelDBFS" : -6.734321594238281,
+        "id" : 89,
+        "lowLevelDBFS" : -44.13834571838379,
+        "repetition" : 0,
+        "restSeconds" : 0.06371880061466544
+      }
+    }
+  ]
+}
